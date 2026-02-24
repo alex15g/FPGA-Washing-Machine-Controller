@@ -34,6 +34,14 @@ The system utilizes a multi-state machine (**Moore Machine**) to ensure stable t
 5. **SPIN**: High-speed rotation simulation (visualized via display frequency).
 6. **END/LOCK**: Post-cycle safety delay before unlocking the door.
 
+---
+
+## 📄 Documentation
+For a detailed explanation of the hardware architecture, state transitions, and component mapping, please refer to the full technical report:
+- 📑 **[Washing Machine Controller Documentation (PDF)](./docs/washing-machine-documentation.pdf)**
+
+---
+
 ## 📂 Project Structure
 Each file has a specific role in the hierarchy to ensure modularity and scalability:
 * **`src/`**: Contains all VHDL source files.

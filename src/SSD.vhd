@@ -1,6 +1,5 @@
 ----------------------------------------------------------------------------------
 -- Company: Technical University of Cluj-Napoca 
--- Engineer: Cristian Vancea
 -- 
 -- Module Name: SSD - Behavioral
 -- Description: 
